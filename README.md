@@ -26,15 +26,15 @@ This project provides a dummy API for token generation, verification, and random
 
 You'll need to install FastAPI and other dependencies to get started:
 
-\`\`\`bash
+```bash
 pip install fastapi jwt pydantic uvicorn
-\`\`\`
+```
 
 Then you can run the server using Uvicorn:
 
-\`\`\`bash
+```bash
 uvicorn app:app --reload
-\`\`\`
+```
 
 ## Usage
 

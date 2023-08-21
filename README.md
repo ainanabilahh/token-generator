@@ -27,7 +27,7 @@ This project provides a dummy API for token generation, verification, and random
 You'll need to install FastAPI and other dependencies to get started:
 
 ```bash
-pip install fastapi jwt pydantic uvicorn
+pip install fastapi PyJWT pydantic uvicorn
 ```
 
 Then you can run the server using Uvicorn:
